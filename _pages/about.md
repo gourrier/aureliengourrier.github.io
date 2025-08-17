@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: >
-  CNRS Research Director (DR)\
-  Optics & Imaging team (OPTIMA)\
-  Laboratory for Interdisciplinary Physics (LIPhy)\
-  UMR 5588 CNRS Univ. Grenoble Alpes\
-  140 rue de la Physique, 38400 St Martin d’Hères, France
+subtitle:
+  CNRS Research Director (DR)  
+  Optics & Imaging team (OPTIMA)  
+  Laboratory for Interdisciplinary Physics (LIPhy)  
+  UMR 5588 CNRS Univ. Grenoble Alpes  
+  140 rue de la Physique, 38400 St Martin d’Hères, France  
   <!-- <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc. -->
 
 profile:
