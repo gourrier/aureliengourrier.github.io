@@ -426,8 +426,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-warning-finally-getting-down-to-build-a-new-website-with-useful-info-construction-this-might-take-a-while-so-please-be-patient-and-forgive-me-for-whatever-i-39-ve-done-wrong-the-contact-info-from-socials-icons-should-work-so-feel-free-to-post-a-message-wink",
-          title: ':warning: Finally getting down to build a new website with useful info :construction:...',
+            },},{id: "news-finally-getting-down-to-building-a-new-website-with-useful-info-this-might-take-a-while-hourglass-so-please-be-patient-and-forgive-me-for-whatever-i-39-ve-done-wrong-the-contact-info-from-socials-icons-should-work-so-feel-free-to-post-a-message-mailbox-with-no-mail",
+          title: 'Finally getting down to building a new website with useful info ! This...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
