@@ -26,13 +26,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-[CNRS](https://www.cnrs.fr/en) Research Director (DR) at [Univ. Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/)<br>
+[CNRS](https://www.cnrs.fr/en) Research Director (DR) @ [Univ. Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/)<br>
 
-Laboratory for Interdisciplinary Physics [LIPhy](https://www-liphy.univ-grenoble-alpes.fr/) - 
-Optics & Imaging team [OPTIMA](https://www-liphy.univ-grenoble-alpes.fr/OPTique-et-IMAgeries-en)
+Laboratory for Interdisciplinary Physics [LIPhy](https://www-liphy.univ-grenoble-alpes.fr/) <br>
+Optics & Imaging team [OPTIMA](https://www-liphy.univ-grenoble-alpes.fr/OPTique-et-IMAgeries-en) <br>
 UMR 5588 CNRS Univ. Grenoble Alpes <br>
-140 rue de la Physique, 38400 St Martin d’Hères, France  
-<!-- <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc. -->
+140 rue de la Physique <br>
+38400 St Martin d’Hères, France  
 
 As a physicist and materials scientist, my goal is to understand fundamental structure-function relationships in mineralized tissues such as bones, teeth, ivory, while also addressing applied biomedical or archaeological questions.
 
