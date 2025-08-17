@@ -508,7 +508,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/Aurélien Gourrier", "_blank");
+          window.open("https://www.linkedin.com/in/aurélien-gourrier-3b440830", "_blank");
         },
       },{
         id: 'social-orcid',
