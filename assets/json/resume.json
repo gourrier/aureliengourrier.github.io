@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Aurélien Gourrier",
+    "Position": "CNRS Research Director",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "aurelien.gourrier@cnrs.fr",
+    "phone": "(+33) 4 76 63 58 01",
+    "url": "https://gourrier.github.io/",
+    "summary": "Researcher in bioimaging and structural studies of mineralized tissues.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "140 rue de la physique",
+      "postalCode": "38402",
+      "city": "Saint Martin d'Hères",
+      "countryCode": "FR",
+      "region": "Rhône-Alpes"
     },
     "profiles": [
       {
@@ -24,93 +24,65 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Laboratory for Interdisciplinary Physics LIPhy - Univ. Grenoble Alpes",
+      "position": "Research Director",
+      "url": "https://www-liphy.univ-grenoble-alpes.fr/",
+      "startDate": "2012-01-01",
+      "endDate": "2099-01-01",
+      "summary": "Researcher in bioimaging and structural studies of mineralized tissues.",
+      "highlights": ["Mineralized tissues (bones, teeth, ivory)","Structural studies","Synchrotron X-ray scattering","Fluorescence microscopy","Instrumentation","Biophysics","..."]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+  // "volunteer": [
+  //  {
+  //    "organization": "People's Climate March",
+  //    "location": "Zurich, Switzerland",
+  //    "position": "Lead Organizer",
+  //      "url": "https://example.com",
+  //      "startDate": "2014-04-01",
+  //      "endDate": "2015-07-01",
+  //      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+  //      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+  //    }
+  //  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Université Grenoble Alpes (formerly Joseph Fourier), Grenoble, France",
+      "location": "Grenoble, France",
+      "url": "https://www.univ-grenoble-alpes.fr/",
+      "area": "Materials Science & Synchrotron X-ray Characterization",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
+      "startDate": "2000-10-01",
+      "endDate": "2004-04-26",
+      // "score": "10",
       "courses": ["Theory of Relativity"]
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+  // "awards": [
+  //   {
+  //     "title": "Nobel Prize in Physics",
+  //     "date": "1921-11-01",
+  //     "awarder": "Royal Swedish Academy of Sciences",
+  //     "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+  //     "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+  //   }
+  // ],
+  // "certificates": [
+  //  {
+  //    "name": "Machine Learning",
+  //    "date": "2018-01-01",
+  //    "issuer": "Stanford University",
+  //    "url": "https://example.com",
+  //    "icon": "fa-solid fa-location-dot"
+  //  },
+  //  {
+  //    "name": "Quantum Computing",
+  //    "date": "2018-01-01",
+  //    "issuer": "Stanford University",
+  //    "url": "https://example.com",
+  //    "icon": "fa-solid fa-tag"
+  //  }
+  // ],
   "publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
