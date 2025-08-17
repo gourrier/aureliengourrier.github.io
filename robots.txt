@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://aureliengourrier.github.io/sitemap.xml
+Sitemap: https://gourrier.github.io/sitemap.xml
