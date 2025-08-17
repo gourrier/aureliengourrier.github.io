@@ -3,10 +3,10 @@ layout: about
 title: about
 permalink: /
 subtitle:
-  CNRS Research Director (DR)  
-  Optics & Imaging team (OPTIMA)  
-  Laboratory for Interdisciplinary Physics (LIPhy)  
-  UMR 5588 CNRS Univ. Grenoble Alpes  
+  CNRS Research Director (DR) <br>
+  Optics & Imaging team (OPTIMA) <br> 
+  Laboratory for Interdisciplinary Physics (LIPhy) <br>
+  UMR 5588 CNRS Univ. Grenoble Alpes <br>
   140 rue de la Physique, 38400 St Martin d’Hères, France  
   <!-- <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc. -->
 
@@ -33,11 +33,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-As a physicist and materials scientist, my goal is to understand fundamental structure-function relationships in mineralized tissues such as bone and bone-like materials (tooth dentin, ivory tusk) while also addressing applied biomedical or archaeological questions.
+As a physicist and materials scientist, my goal is to understand fundamental structure-function relationships in mineralized tissues such as bones, teeth, ivory, while also addressing applied biomedical or archaeological questions.
 
 My research consists in developing new imaging methods, analytical tools and concepts to decipher the functional impact of the material’s nanostructure, multiscale hierarchy, disorder, interfaces and structural gradients of the tissue, on one side, and of the cellular network topology and multiscale porosity on the other.
 
-My main expertise is in synchrotron X-ray imaging and analysis with scattering contrast (SAXS, WAXS, XRD), fluorescence optical microscopy and non-linear imaging methods (two-photon, second and third-harmonic generation) and analytical methods related to the physics of complex systems. One specificity of my work is that we work on the whole chain from advanced sample preparation, instrument development, to scientific analysis.
+My main expertise is in synchrotron X-ray imaging and analysis with scattering contrast (SAXS, WAXS, XRD), fluorescence optical microscopy and non-linear imaging methods (two-photon, second and third-harmonic generation) and analytical methods related to the physics of complex systems. One specificityis that we work on the whole chain from advanced sample preparation, instrument development, to scientific analysis.
+
+My position at CNRS allows me to focus 100 % on research and related activities, but I also teach various courses (see CV and Teaching for more info).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
