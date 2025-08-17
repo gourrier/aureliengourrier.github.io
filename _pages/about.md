@@ -3,12 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle:
-  [CNRS](https://www.cnrs.fr/en) Research Director (DR) @ [Univ. Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/), France<br>
-  Laboratory for Interdisciplinary Physics [LIPhy](https://www-liphy.univ-grenoble-alpes.fr/) - Optics & Imaging team [OPTIMA](https://www-liphy.univ-grenoble-alpes.fr/OPTique-et-IMAgeries-en) <br>
-  <!-- UMR 5588 CNRS Univ. Grenoble Alpes <br>
-  140 rue de la Physique, 38400 St Martin d’Hères, France  
-  <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc. -->
-
 profile:
   align: right
   image: Portrait_IMG_0375_crop2_small-removebg.png
@@ -31,6 +25,14 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+[CNRS](https://www.cnrs.fr/en) Research Director (DR) at [Univ. Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/)<br>
+
+Laboratory for Interdisciplinary Physics [LIPhy](https://www-liphy.univ-grenoble-alpes.fr/) - 
+Optics & Imaging team [OPTIMA](https://www-liphy.univ-grenoble-alpes.fr/OPTique-et-IMAgeries-en)
+UMR 5588 CNRS Univ. Grenoble Alpes <br>
+140 rue de la Physique, 38400 St Martin d’Hères, France  
+<!-- <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc. -->
 
 As a physicist and materials scientist, my goal is to understand fundamental structure-function relationships in mineralized tissues such as bones, teeth, ivory, while also addressing applied biomedical or archaeological questions.
 
