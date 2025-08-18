@@ -32,7 +32,7 @@ Laboratory for Interdisciplinary Physics [LIPhy](https://www-liphy.univ-grenoble
 Optics & Imaging team [OPTIMA](https://www-liphy.univ-grenoble-alpes.fr/OPTique-et-IMAgeries-en) <br>
 UMR 5588 CNRS Univ. Grenoble Alpes <br>
 140 rue de la Physique <br>
-38400 St Martin d’Hères, France  
+38400 St Martin d’Hères, France
 
 As a physicist and materials scientist, my goal is to understand fundamental structure-function relationships in mineralized tissues such as bones, teeth, ivory, while also addressing applied biomedical or archaeological questions.
 

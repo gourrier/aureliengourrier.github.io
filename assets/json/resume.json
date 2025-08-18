@@ -30,39 +30,13 @@
       "startDate": "2012-01-01",
       "endDate": "2099-01-01",
       "summary": "Researcher in bioimaging and structural studies of mineralized tissues. Head of the Optics and Imaging team from 2021-24.",
-      "highlights": ["Mineralized tissues (bones, teeth, ivory)","Structural studies","Synchrotron X-ray scattering","Fluorescence microscopy","Instrumentation","Biophysics","..."]
-    },
-    {
-      "name": "Laboratory for Solid State Physics LPS - Univ. Paris Saclay - France",
-      "position": "Researcher",
-      "url": "https://www-liphy.univ-grenoble-alpes.fr/",
-      "startDate": "2007-10-01",
-      "endDate": "2011-12-31",
-      "summary": "Researcher in structural studies of bone using synchrotron X-ray scattering techniques."
-    },
-    {
-      "name": "European Synchrotron Radiation Facility (ESRF) - Grenoble - France",
-      "position": "Visiting Scientist",
-      "url": "https://www.esrf.fr/",
-      "startDate": "2006-08-01",
-      "endDate": "2016-02-28",
-      "summary": "Development of quantitative scanning-SAXS imaging.",
-    },
-    {
-      "name": "Laboratory for Solid State Physics LPS - Univ. Paris Saclay - France",
-      "position": "Postdoc Fellow",
-      "url": "https://www-liphy.univ-grenoble-alpes.fr/",
-      "startDate": "2006-01-01",
-      "endDate": "2007-08-31",
-      "summary": "Development of a micro-tensile device for in X-ray situ studies of cell deformation.",
-    },
-    {
-      "name": "Max-Planck Institute for Colloids & Interfaces, Biomaterials dpt., Potsdam, Germany",
-      "position": "Postdoc Fellow",
-      "url": "https://www.mpikg.mpg.de/en",
-      "startDate": "2004-10-01",
-      "endDate": "2006-12-31",
-      "summary": "Scanning-SAXS nanoscale analysis of bone mineral. Mue-Spot beamline commissioning at BESSY II",
+      "highlights": [
+	    "Mineralized tissues (bones, teeth, ivory)",
+	    "Structural studies","Synchrotron X-ray scattering",
+		"Fluorescence microscopy",
+		"Instrumentation",
+		"Biophysics",
+		"..."]
     }
   ],
   "volunteer": [
