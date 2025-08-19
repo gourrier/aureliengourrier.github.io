@@ -1,0 +1,15 @@
+- title: Current Position
+  type: map
+  contents:
+    - name: Full Name
+      value: Aurélien Gourrier
+    - name: Title
+      value: CNRS Research Director
+    - name: Current Affiliation
+      value: Laboratory for Interdisciplinary Physics LIPhy, University Grenoble Alpes, France
+    - name: Team
+      value: Optics and Imaging OPTIMA - Mineralized Tissues group
+    - name: Address
+      value: 140 rue de la physique - 38402 Saint Martin d'Hères - France
+    - name: More info
+      value: Check pdf version
