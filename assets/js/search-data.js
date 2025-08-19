@@ -39,10 +39,10 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Click on PDF icon to download a short CV.",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/assets/pdf/2025_CV-full_AGourrier_en.pdf";
           },
         },{id: "nav-teaching",
           title: "teaching",
