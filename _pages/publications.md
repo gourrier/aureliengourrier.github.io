@@ -9,6 +9,8 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
+Updated on 08/2025. Please cross-check with my [Google Scholar](https://scholar.google.fr/citations?hl=fr&user=XLnMtmwAAAAJ) or [ResearchGate](https://www.researchgate.net/profile/Aurelien-Gourrier) profiles.
+
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
