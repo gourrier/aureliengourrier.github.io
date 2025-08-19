@@ -1,11 +1,8 @@
 ---
-layout: cv
-permalink: /cv/
+layout: page
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: 2025_CV-short-AGourrier_en.pdf # you can also use external links here
-description: Click on PDF icon to download a short CV.
-toc:
-  sidebar: left
+newtab: true
+permalink: /assets/pdf/2025_CV-full_AGourrier_en.pdf
 ---
