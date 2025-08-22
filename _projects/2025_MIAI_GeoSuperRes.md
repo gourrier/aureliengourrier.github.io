@@ -1,26 +1,53 @@
 ---
 layout: page
 title: AI super-resolution imaging
-description: Currently supported by a MIAI Cluster Chair 2025-29 
+description: Currently supported by a MIAI Cluster Chair 2025-29
 img: assets/img/12.jpg
 importance: 1
 category: Current
 related_publications: true
 ---
 
-**Keywords:** Super-Resolution Models, Multimodal Geometric Generative AI, Image Quality Assessment, Multiscale Biomedical Imaging, Mineralized Tissues, Bones, Teeth, Biological Cellular Network.
+This project started in 2021 in collaboration with [Prof. David Rousseau](https://eng-irhs.angers-nantes.hub.inrae.fr/research/imaging-for-horticulture-and-phenotyping/l-equipe/david-rousseau) from the University of Angers, France and [Prof. Kathryn Grandfield](https://www.eng.mcmaster.ca/materials/faculty/kathryn-grandfield-bernar/) from McMaster University, Canada. It was initially supported by a research grant of the [Human Frontier Science Program (HFSP)](https://www.hfsp.org/). This allowed funding the PhD of Lauren Anderson (2022-25). It is currently supported by a [Chair in Artificial Intelligence from the MIAI Cluster](https://miai-cluster.univ-grenoble-alpes.fr/research/chairs/geosuperres-geometry-aware-multimodal-super-resolution-imaging-of-microscopic-cellular-porosity-in-bones-and-teeth-1626264.kjsp).
 
-The goals of this** [Chair in Artificial Intelligence from the MIAI](https://miai-cluster.univ-grenoble-alpes.fr/research/chairs/geosuperres-geometry-aware-multimodal-super-resolution-imaging-of-microscopic-cellular-porosity-in-bones-and-teeth-1626264.kjsp) **is to investigate how deep-learning super-resolution (SR) imaging models could perform more accurately and with lighter architectures when taking into account specific structure of the input images.
 
-**_In simple terms:_** SR aims at retrieving high quality images from lower ones, e.g. from a poor quality microscope, telescope or even a simple camera. For this, supervised deep-learning SR models can be trained with pairs of images aquired at high and low resolutions. Once trained, you can feed your low resolution images into the model to improve it, as if it had been taken with a much fancier (and probably way more costly) device, at least in theory...
+**Keywords:** *Super-Resolution Models,  Multimodal Geometric Generative AI,  Image Quality Assessment,  Multiscale Biomedical Imaging,  Mineralized Tissues,  Bones,  Teeth,  Biological Cellular Network*.
+
+
+The goals is to investigate how deep-learning super-resolution (SR) imaging models could perform more accurately and with lighter architectures when taking into account specific structure of the input images.
+
+**_In simple terms_** 
+
+SR aims at retrieving high quality images from lower ones, e.g. from a poor quality microscope, telescope or even a simple camera. For this, supervised deep-learning SR models can be trained with pairs of images aquired at high and low resolutions. Once trained, you can feed your low resolution images into the model to improve it, as if it had been taken with a much fancier (and probably way more costly) device, at least in theory...
 
 For example, the images below were acquired at different resolutions using a confocal microscope. Here the tested SR model can retrieve details even at x8 degradation, while our human eye can barely percieve the original high-resolution details !
 
-**_fancy images to be added soon, I promise _**
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Website_Fig_SuperRes_border.png" title="SR illustration" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Website_Fig_SuperRes.png" title="SR illustration" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Website_Fig_SuperRes_border.png" title="SR illustration" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Website_Fig_SuperRes.png" title="SR illustration" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Fluorescence microscopy image at high-resolution (left), degraded x8 (center) and generated with an SR model from the degraded image (right). Copyright CNRS, LIPhy. PhD Thesis [Lauren Anderson](https://www.linkedin.com/in/lauren-anderson-098070136).
+</div>
+
 
 SR models are typically built with some degree of mathematical logic, regardless of the type of images used for training - because they aim to be generic. See e.g. [this review](https://arxiv.org/abs/2102.09351) for more technical info. However, in many cases, the objects we image may, themselves, contain quite specific characteristics that could be used to improve existing SR models - at the cost of becoming less general. So the question is: how can we use such information to improve SR models ?
 
-**_More precisely:_** Deep-learnign SR models fall in two broad categories depending on whether high- and low-resolution (HR/LR) input data are spatially correlated (paired) or not (unpaired). Paired models (e.g. Pix2Pix) generally require pixel-matched inputs of images, which can be experimentally challenging. Unpaired data aim to alleviate the need for paired input, at the cost of increasingly complex architectures (e.g. cycle-GANs). Those are known to be relatively unstable in training and require heavy hyper-parameter tunning. In summary, SR performance has increased over time at the cost of growing model complexity. There is, however, increasing evidence that informed models (e.g. physics-informed) may outperform others **by design**. In this chair, we propose to focus on specific applications of multiscale physical networks. The focus will be on microscopic cellular networks in bones and teeth, but our model should perform well on other types of physical networks, e.g. porosity networks in materials. Our goal is to develop geometry-aware SR models, which encode some features of the physical network topology.
+**_More precisely_** 
+
+Deep-learnign SR models fall in two broad categories depending on whether high- and low-resolution (HR/LR) input data are spatially correlated (paired) or not (unpaired). Paired models (e.g. Pix2Pix) generally require pixel-matched inputs of images, which can be experimentally challenging. Unpaired data aim to alleviate the need for paired input, at the cost of increasingly complex architectures (e.g. cycle-GANs). Those are known to be relatively unstable in training and require heavy hyper-parameter tunning. In summary, SR performance has increased over time at the cost of growing model complexity. There is, however, increasing evidence that informed models (e.g. physics-informed) may outperform others **by design**. In this chair, we propose to focus on specific applications of multiscale physical networks. The focus will be on microscopic cellular networks in bones and teeth, but our model should perform well on other types of physical networks, e.g. porosity networks in materials. Our goal is to develop geometry-aware SR models, which encode some features of the physical network topology.
 
 
 **_Why is this important at all ?_**
