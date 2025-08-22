@@ -207,7 +207,7 @@ exclude:
   - _projects/2_project.md
   - _projects/3_project.md
   - _projects/4_project.md
-  - _projects/5_project.md
+  - _projects/9_project.md
   - assets/json/resume_init.json
   - assets/json/resume_tmp.json
 keep_files:
