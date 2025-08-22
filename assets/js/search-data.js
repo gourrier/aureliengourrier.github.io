@@ -401,9 +401,9 @@ ninja.data = [{
             },},{id: "news-finally-getting-down-to-building-a-new-website-with-useful-info-this-might-take-a-while-hourglass-so-please-be-patient-and-forgive-me-for-whatever-i-ve-done-wrong-the-contact-info-from-socials-icons-should-work-so-feel-free-to-post-a-message-mailbox-with-no-mail",
           title: 'Finally getting down to building a new website with useful info ! This...',
           description: "",
-          section: "News",},{id: "projects-geosuperres-2025-29",
-          title: 'GeoSuperRes 2025-29',
-          description: "A MIAI Cluster chair on deep-learning super-resolution for imaging",
+          section: "News",},{id: "projects-ai-super-resolution-imaging",
+          title: 'AI super-resolution imaging',
+          description: "Currently supported by a MIAI Cluster Chair 2025-29",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025_MIAI_GeoSuperRes/";
             },},{id: "projects-project-9",
