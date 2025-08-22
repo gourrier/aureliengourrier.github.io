@@ -406,11 +406,6 @@ ninja.data = [{
           description: "Currently supported by a MIAI Cluster Chair 2025-29",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025_MIAI_GeoSuperRes/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
