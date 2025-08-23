@@ -10,7 +10,7 @@ related_publications: true
 
 This project started in 2021 in collaboration with [Prof. David Rousseau](https://eng-irhs.angers-nantes.hub.inrae.fr/research/imaging-for-horticulture-and-phenotyping/l-equipe/david-rousseau) from the University of Angers, France and [Prof. Kathryn Grandfield](https://www.eng.mcmaster.ca/materials/faculty/kathryn-grandfield-bernar/) from McMaster University, Canada. It was initially supported by a research grant of the [Human Frontier Science Program (HFSP)](https://www.hfsp.org/). This allowed funding the PhD of Lauren Anderson (2022-25). It is currently supported by a [Chair in Artificial Intelligence from the MIAI Cluster](https://miai-cluster.univ-grenoble-alpes.fr/research/chairs/geosuperres-geometry-aware-multimodal-super-resolution-imaging-of-microscopic-cellular-porosity-in-bones-and-teeth-1626264.kjsp).
 
-**Keywords:** *Super-Resolution Models, Multimodal Geometric Generative AI, Image Quality Assessment, Multiscale Biomedical Imaging, Mineralized Tissues, Bones, Teeth, Biological Cellular Network*.
+**Keywords:** _Super-Resolution Models, Multimodal Geometric Generative AI, Image Quality Assessment, Multiscale Biomedical Imaging, Mineralized Tissues, Bones, Teeth, Biological Cellular Network_.
 
 The goal is to investigate how deep-learning super-resolution (SR) imaging models could perform more accurately and with lighter architectures when taking into account specific structure of the input images.
 
@@ -22,11 +22,6 @@ For example, the images below were acquired at different resolutions using a con
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Project_SR_Fig_SuperRes.png" title="SR illustration" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="row">
-    <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Project_SR_Fig_SuperRes.png" title="SR illustration" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -50,7 +45,7 @@ Third comes the real motivations: it's actually pretty interesting from a purely
 
 **_Is AI really needed for this ?_**
 
-A large part the chair members are originally experts in instrumental development and general image processing in computer vision. So we always put our efforts first into what we know best (and we believe this should always be the case): designing better images devices and processing tools. But 1) super-resolution can be a very, very, very complex problem because it combines too many challenges at the same time (see upcomming paper by Lauren Anderson); 2) the stakes are really high: [according to WHO](https://www.who.int/news-room/fact-sheets/detail/fragility-fractures), 50 % women and 17 % men above 60 years old are at risk of osteoporosis, for example. And a large fraction of osteopenic fractures are still not explained ( [more info](https://www.thelancet.com/article/S2213-8587(24)00225-0/abstract) ). This has huge societal, ecomical and political consequences !
+A large part the chair members are originally experts in instrumental development and general image processing in computer vision. So we always put our efforts first into what we know best (and we believe this should always be the case): designing better images devices and processing tools. But 1) super-resolution can be a very, very, very complex problem because it combines too many challenges at the same time (see upcomming paper by Lauren Anderson); 2) the stakes are really high: [according to WHO](https://www.who.int/news-room/fact-sheets/detail/fragility-fractures), 50 % women and 17 % men above 60 years old are at risk of osteoporosis, for example. And a large fraction of osteopenic fractures are still not explained ( [more info](<https://www.thelancet.com/article/S2213-8587(24)00225-0/abstract>) ). This has huge societal, ecomical and political consequences !
 
 So, yes, in this case, AI could make a real difference and, for now, there's no simple way around. This being said, we are fully aware of the critiscisms around AI development and we are fully dedicated to taking all constraints into account. This means, in particular, developing light models to minimize computing hardware and energy resources, making our results widely accessible and facilitating technology transfer when possible.
 
