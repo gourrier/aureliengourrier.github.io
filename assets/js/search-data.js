@@ -403,9 +403,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-ai-super-resolution-imaging",
           title: 'AI super-resolution imaging',
-          description: "Currently supported by a MIAI Cluster Chair 2025-29",
+          description: "Extending imaging devices capacity - Ongoing",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2025_MIAI_GeoSuperRes/";
+              window.location.href = "/projects/1_SuperRes/";
             },},{
         id: 'social-email',
         title: 'email',
