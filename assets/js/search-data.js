@@ -406,6 +406,21 @@ ninja.data = [{
           description: "Extending imaging devices capacity - Ongoing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_SuperRes/";
+            },},{id: "projects-tooth-dentin-porosity",
+          title: 'Tooth Dentin Porosity',
+          description: "Characterize the cellular porosity network and its functional impact",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_DentinPorosity/";
+            },},{id: "projects-bone-mineral-ultrastructure",
+          title: 'Bone mineral ultrastructure',
+          description: "Charaterize the mineral nanostructure and understant its functional role",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_BoneMineralUltrastructure/";
+            },},{id: "projects-qssaxsi",
+          title: 'qsSAXSI',
+          description: "Synchrotron quantitative scanning-SAXS imaging",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_qsSAXSI/";
             },},{
         id: 'social-email',
         title: 'email',
