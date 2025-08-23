@@ -3,7 +3,7 @@ layout: page
 title: Tooth Dentin Porosity
 description: Characterize the cellular porosity network and its functional impact
 img:
-importance: 1
+importance: 2
 category: Biomedical
 related_publications: true
 ---
