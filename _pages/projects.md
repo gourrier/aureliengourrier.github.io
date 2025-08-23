@@ -5,7 +5,7 @@ permalink: /projects/
 description: A quick dive into a few selected projects.
 nav: true
 nav_order: 2
-display_categories: [Current, Past]
+display_categories: [Biomedical, Methods]
 horizontal: false
 ---
 

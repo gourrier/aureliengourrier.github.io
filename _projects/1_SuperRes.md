@@ -1,11 +1,11 @@
 ---
 layout: page
 title: AI super-resolution imaging
-description: Currently supported by a MIAI Cluster Chair 2025-29
+description: Extending imaging devices capacity - Ongoing
 img: assets/img/Project_SR_Iris_LR-HR_2_bright_small.png
 importance: 1
-category: Current
-related_publications: true
+category: Methods
+related_publications: false
 ---
 
 This project started in 2021 in collaboration with [Prof. David Rousseau](https://eng-irhs.angers-nantes.hub.inrae.fr/research/imaging-for-horticulture-and-phenotyping/l-equipe/david-rousseau) from the University of Angers, France and [Prof. Kathryn Grandfield](https://www.eng.mcmaster.ca/materials/faculty/kathryn-grandfield-bernar/) from McMaster University, Canada. It was initially supported by a research grant of the [Human Frontier Science Program (HFSP)](https://www.hfsp.org/). This allowed funding the PhD of Lauren Anderson (2022-25). It is currently supported by a [Chair in Artificial Intelligence from the MIAI Cluster](https://miai-cluster.univ-grenoble-alpes.fr/research/chairs/geosuperres-geometry-aware-multimodal-super-resolution-imaging-of-microscopic-cellular-porosity-in-bones-and-teeth-1626264.kjsp).
@@ -20,7 +20,7 @@ SR aims at retrieving high quality images from lower ones, e.g. from a poor qual
 
 For example, the images below were acquired at different resolutions using a confocal microscope. Here the tested SR model can retrieve details even at x8 degradation, while our human eye can barely percieve the original high-resolution details !
 
-<div class="row justify-content-center">
+<div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Project_SR_Fig_SuperRes.png" title="SR illustration" width="600px" class="img-fluid rounded z-depth-1" %}
     </div>
